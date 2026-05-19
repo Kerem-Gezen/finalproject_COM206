@@ -1,1 +1,12 @@
-PySide6
+## Prerequisites & Requirements
+
+To use and run this application on your local machine, the following software and libraries are required:
+
+* **Python 3.x** (Python 3.8 or newer is recommended)
+* **PySide6** (The official Python module for Qt)
+
+### Recommended IDEs & Tools
+You can run or edit this project using:
+* **Qt Creator** (Official Qt IDE)
+* **Visual Studio Code / PyCharm**
+* **Qt Designer** (For UI layout design if needed)
