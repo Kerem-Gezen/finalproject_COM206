@@ -1,7 +1,7 @@
-#README:
+# README:
 
 
-#Digital Piggy Bank
+# Digital Piggy Bank
 
 
 This README document provides an overview and setup instructions for the Digital Piggy Bank application. It is a desktop-based budget and piggy bank tool designed to track personal savings, allowing users to deposit and withdraw funds while maintaining real-time balance updates.
