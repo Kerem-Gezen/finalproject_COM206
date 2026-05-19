@@ -1,13 +1,24 @@
-README:
+#README:
 
 
-Digital Piggy Bank
+#Digital Piggy Bank
 
 
 This README document provides an overview and setup instructions for the Digital Piggy Bank application. It is a desktop-based budget and piggy bank tool designed to track personal savings, allowing users to deposit and withdraw funds while maintaining real-time balance updates.
 
 
 This application is written purely in Python and utilizes the Qt framework (specifically PySide6) for its graphical user interface.
+
+
+Project Structure()
+
+finalproject_COM206/
+├── .gitignore             # Filters unnecessary system files
+├── README.md              # Project documentation
+├── requirements.txt       # Required Python libraries (PySide6)
+├── main.py                # The main code file of the application
+└── pyproject.toml         # Qt project configuration file
+
 
 
 Prerequisites & Requirements
