@@ -11,14 +11,16 @@
 
 
 ### Project Structure()
-
+```text
 finalproject_COM206/
 ├── .gitignore             # Filters unnecessary system files
 ├── README.md              # Project documentation
 ├── requirements.txt       # Required Python libraries (PySide6)
 ├── main.py                # The main code file of the application
-└── pyproject.toml         # Qt project configuration file
-
+├── pyproject.toml         # Qt project configuration file
+├── Main.qml               # Main QML file for Qt Quick UI layout
+└── qmldir                 # QML module configuration file
+```
 
 
 ### Prerequisites & Requirements
