@@ -4,13 +4,13 @@
 # Digital Piggy Bank
 
 
-This README document provides an overview and setup instructions for the Digital Piggy Bank application. It is a desktop-based budget and piggy bank tool designed to track personal savings, allowing users to deposit and withdraw funds while maintaining real-time balance updates.
+### This README document provides an overview and setup instructions for the Digital Piggy Bank application. It is a desktop-based budget and piggy bank tool designed to track personal savings, allowing users to deposit and withdraw funds while maintaining real-time balance updates.
 
 
-This application is written purely in Python and utilizes the Qt framework (specifically PySide6) for its graphical user interface.
+### This application is written purely in Python and utilizes the Qt framework (specifically PySide6) for its graphical user interface.
 
 
-Project Structure()
+### Project Structure()
 
 finalproject_COM206/
 ├── .gitignore             # Filters unnecessary system files
@@ -21,37 +21,39 @@ finalproject_COM206/
 
 
 
-Prerequisites & Requirements
+### Prerequisites & Requirements
 To use and run this application on your local machine, the following software and libraries are required:
 
 
-Python 3.x (Python 3.8 or newer is recommended)
+### Python 3.x (Python 3.8 or newer is recommended)
 
 
-PySide6 (The official Python module for Qt)
+### PySide6 (The official Python module for Qt)
 
 
-Recommended IDEs
+### Recommended IDEs
 
 
 You can run or edit this project using any standard Integrated Development Environment (IDE). Popular choices include:
 
-Visual Studio Code (VS Code)
+### Visual Studio Code (VS Code)
 
-PyCharm
+### PyCharm
 
-Spyder
+### Spyder
 
-Installation & Usage
+### QtCreator
+
+### Installation & Usage
 Verify that Python is installed on your system by running python --version in your terminal or command prompt.
 
 Install the required Qt framework library by running the following command:
 
-Bash
+### Bash
 pip install PySide6
 Execute the main Python script to launch the application:
 
-Bash
+### Bash
 python main.py
 Technologies Used
 Core Language: Python 3
